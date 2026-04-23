@@ -215,4 +215,4 @@ Every module supports a mock fallback so the whole app boots with zero API keys.
 
 ## License
 
-Private project. See repo settings.
+Licensed under the [Apache License, Version 2.0](./LICENSE). You may use, modify, and distribute this project under the terms of that license.
