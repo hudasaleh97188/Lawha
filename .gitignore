@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment / secrets
+.env
+.env.local
+*.pem
+firebase-credentials*.json
+
+# Generated assets (runtime output dir)
+generated/
+
+# Node / UI build artifacts
+node_modules/
+ui/dist/
+ui/node_modules/
+ui/.vite/
+ui/tsconfig.tsbuildinfo
+ui/test-results/
+ui/playwright-report/
+
+# Logs
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.claude/settings.local.json
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+desktop.ini
+*.swp
+*~
